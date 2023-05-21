@@ -22,7 +22,7 @@ The task from Havard Cs50 was to create a Game or Tel a storry using sveral spri
 
 ### Screenshot
 
-![Project Screenshot](Star Shooters/Images/Screenshot.png)
+![Project Screenshot](./Star Shooters/Images/Screenshot.png)
 
 
 ### Links
