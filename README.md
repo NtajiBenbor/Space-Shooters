@@ -18,7 +18,7 @@ This is a solution to theHavard CS50 Course Problem set 0 Using scratch.
 
 ## Overview
 
-The task from Havard Cs50 was to create a Game or Tel a storry using sveral sprites and scripts using the scratch Programing Language. this document provides a detailed explanation of methodology and technologies used at different points; from inception to finalization of this project in order to achieve this end-result.
+The task from Havard Cs50 was to create a Game or Tell a story using several sprites and scripts using the scratch Programing Language. this document provides a detailed explanation of methodology and technologies used at different points; from inception to finalization of this project in order to achieve this end-result.
 
 ### Screenshot
 
