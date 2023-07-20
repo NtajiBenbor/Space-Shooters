@@ -1,6 +1,6 @@
-# Havard Cs50- Space shooter Game
+# Havard Cs50: Space shooter Game
 
-This is a solution to theHavard CS50 Course Problem set 0 Using scratch. 
+This is a solution to the Havard CS50 Course Problem set 0 Using scratch. 
 
 ## Table of contents
 
@@ -18,7 +18,7 @@ This is a solution to theHavard CS50 Course Problem set 0 Using scratch.
 
 ## Overview
 
-The task from Havard Cs50 was to create a Game or Tell a story using several sprites and scripts using the scratch Programing Language. this document provides a detailed explanation of methodology and technologies used at different points; from inception to finalization of this project in order to achieve this end-result.
+The task from Havard Cs50 was to create a Game or Tell a story using several sprites and scripts using the scratch programming Language. this document provides a detailed explanation of the methodology and technologies used at different points; from inception to finalization of this project in order to achieve this end result.
 
 ### Screenshot
 
@@ -31,7 +31,7 @@ The task from Havard Cs50 was to create a Game or Tell a story using several spr
 
 ## My process
 
-I started off by creating the basic structure of this game using scartch, then i gradually added different sprites and wrote the logic to control these sprites as per the guidelines in the problemset description. I then created a repository for this project on github.   
+I started off by creating the basic structure of this game using Scratch, then I gradually added different sprites and wrote the logic to control these sprites as per the guidelines in the problem set description. I then created a repository for this project on github.   
 
 
 ### Built with
@@ -40,14 +40,14 @@ I started off by creating the basic structure of this game using scartch, then i
 
 ### What I learned
 
-- I lerand about conditionals
+- I learned about conditionals
 - Loops.
 - Events.
-- Arguements.
+- Arguments.
 
 
 ### Continued development
- I want to get better at programming by leaning about the fundamentals of programing in the future.
+ I want to get better at programming by learning about the fundamentals of programming in the future.
 
 
 ## Author
@@ -57,5 +57,5 @@ I started off by creating the basic structure of this game using scartch, then i
 
 ## Acknowledgments
 
-I want to thank myself for sticking through this and finally finishing it. It is a testement of my will and determination to become a software developer. Thank you for taking these small baby steps.
+I want to thank myself for sticking through this and finally finishing it. It is a testament to my will and determination to become a software developer. Thank you for taking these small baby steps.
 
